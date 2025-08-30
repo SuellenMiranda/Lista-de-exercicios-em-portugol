@@ -1,6 +1,6 @@
 # Conteúdo desse repositório
 
-## Atividades I
+## [Atividades I](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%201/README.md)
     Exercício 1 - Soma
     Exercício 2 - Média
     Exercício 3 - Soma II
@@ -18,7 +18,7 @@
     Exercício 15 - Lucro da Loja
     Exercício 16 - Milhares Centenas Dezenas Unidades
 
-## Atividades II
+## [Atividades II](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%202/README.md)
     Exercício 1 - Publico total de um jogo
     Exercício 2 - Combustivel
     Exercício 3 - Preco Unitario
@@ -32,7 +32,7 @@
     Exercício 11 - Desconto de Produto
     Exercício 12 - Cardapio de Lanchanote 
 
-## Atividades III
+## [Atividades III](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%203/README.md)
     Exercício 1 - Numeros Inteiros e Soma
     Exercício 2 - Tabuada Multiplicacao
     Exercício 3 - Tabuada Divisao
@@ -56,7 +56,7 @@
     Exercício 21 - Desenhando Triangulo
     Exercício 22 - Desenhando Piramide
 
-## Atividades IV
+## [Atividades IV](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%204/README.md)
     Exercício 1 - Valores Inteiros Maior e Menor
     Exercício 2 - Loja Material Esportivo
     Exercício 3 - Boletim
@@ -65,7 +65,7 @@
     Exercício 6 - Total de Produtos
     Exercício 7 - Multiplas Listas
 
-## Atividades V
+## [Atividades V](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%205/README.md)
     Exercício 1 - Calcular Circunferencia
     Exercício 2 - Expressao Matematica
     Exercício 3 - Subtracao Resultado Positivo
@@ -76,7 +76,7 @@
     Exercício 8 - Sorteio Vetorial
     Exercício 9 - Dados Inteiros e Elemento Vetorial
 
-## Atividades VI
+## [Atividades VI](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%206/README.md)
     Exercício 1 - Matriz Numeros Inteiros
     Exercício 2 - Matriz Numeros Reais
     Exercício 3 - Vetores de Elementos Numericos Inteiros
@@ -92,7 +92,7 @@
     Exercício 13 - Matriz 4x3 Elemento Definido por Usuario
     Exercício 14 - Matriz 7x8 Soma de Indices
 
-## Atividades VII
+## [Atividades VII](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%207/README.md)
     Exercício 1 - Matriz 5x5 com Soma de Elementos
     Exercício 2 - Matriz 4x4 com Soma de Elementos Terceira Coluna
     Exercício 3 - Vetor de 6 Elementos Numericos Inteiros
@@ -103,7 +103,7 @@
     Exercício 8 - Matriz 2x3 Transposicao 3x2
     Exercício 9 - Matriz 5x5 Cubo
 
-## Atividades VIII
+## [Atividades VIII](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%208/README.md)
     Exercício 1 - Operação Booleana SE
     Exercício 2 - Nlogonia
     Exercício 3 - RH da XXX Engenharia
@@ -117,7 +117,7 @@
     Exercício 11 - Soma de Vetores
     Exercício 12 - Inversao Numerica
 
-## Atividades IX
+## [Atividades IX](https://github.com/SuellenMiranda/Lista-de-exercicios-em-portugol/blob/main/Atividades%209/README.md)
     Exercício 1 - Lancamentos de Notas
     Exercício 2 - Verificar Elementos em Comum
     Exercício 3 - calculo IMC 25 Pessoas
